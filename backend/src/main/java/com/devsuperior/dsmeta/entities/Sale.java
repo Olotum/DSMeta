@@ -33,12 +33,12 @@ public class Sale {
 		this.id = id;
 	}
 
-	public String getSellName() {
+	public String getSellerName() {
 		return sellerName;
 	}
 
-	public void setSellName(String sellName) {
-		this.sellerName = sellName;
+	public void setSellerName(String sellerName) {
+		this.sellerName = sellerName;
 	}
 
 	public Integer getVisited() {
